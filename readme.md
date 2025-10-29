@@ -38,10 +38,10 @@ Currently exploring <b>Next.js</b> × <b>TypeScript</b> × <b>Machine Learning</
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://discordapp.com/users/arsenius"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30"/></a>
+  <a href="https://discordapp.com/users/anomaly8164"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30"/></a>
   <a href="mailto:arseniuswahyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="30"/></a>
   <a href="https://www.linkedin.com/in/arsenius-audley/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30"/></a>
-  <a href="https://www.instagram.com/eevnxyego/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30"/></a>
+  <a href="https://www.instagram.com/arsen.audley/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30"/></a>
 </div>
 
 ---
